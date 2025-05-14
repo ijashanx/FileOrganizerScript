@@ -83,7 +83,7 @@ We would like to thank our course instructor and mentors for their guidance thro
 
 Developed as part of Linux System Programming Course
 
-© 2025 Team FileOrganizerScript
+© 2025 Team FileOrganizerScript 
 
 
 
